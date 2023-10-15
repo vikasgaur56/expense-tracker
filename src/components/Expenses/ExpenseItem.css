@@ -46,4 +46,10 @@
   .expense-item__price {
     font-size: 1.25rem;
   }
+  .button_style{
+    border: 1px black;
+    border-radius: 2px;
+    margin: auto;
+    background-color: 40005d;
+  }
 }
